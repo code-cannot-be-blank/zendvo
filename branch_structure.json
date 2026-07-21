@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/cancel-gift-297",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/cancel-gift-297": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/cancel-gift-297",
+    "origin"
+  ]
+}
